@@ -1,4 +1,4 @@
-# Please Click On the Youtube icon in live page to experience modern-youtube
+# Please Click On the Favicon on left top in live page to experience modern-youtube
 
 # Getting Started with Create React App
 
